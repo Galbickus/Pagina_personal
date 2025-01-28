@@ -127,6 +127,8 @@ body{
     }
     .header__menu{
         justify-content: center;
+        flex-direction: column;
+        gap:inherit;
     }
     .presentacion{
         flex-direction: column-reverse;
